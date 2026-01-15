@@ -1,0 +1,52 @@
+============================================================
+HYTALE: LIVING WORLD & COMBAT REVOLUTION
+============================================================
+
+[CONCEPT OVERVIEW]
+These ideas aim to revolutionize the cubic sandbox genre by 
+introducing ecological consequences, tactical combat, and 
+meaningful faction diplomacy. 
+
+MARKING SYSTEM:
++ Idea Accepted: The concept fits the project vision.
+- Idea Not Accepted: The concept requires rework or removal.
+
+------------------------------------------------------------
+I. WORLD & ECOSYSTEM
+------------------------------------------------------------
+* "Time Asset" & Gaia's Cleansing: Cleared bases trigger a 
+  4–10 day timer where Nature (Gaia) reclaims the land. [+]
+  Roots and moss consume structures to reduce server load. [-]
+
+* Point of No Return (50%): If 50%+ of a base is reclaimed, 
+  enemies cannot return. [+]
+  Below 50%, they can attempt to retake and restore it. [-]
+
+* Two-Level Repair & Workshop: Field repairs lower max 
+  durability (e.g., 100 to 90). [+]
+  Full 100% restoration requires a Workshop and resources. [-]
+
+* Stress & Demographics: Peaceful races (Kweebecs/Ferans) 
+  react to danger. [+]
+  High stress stops reproduction and triggers "Military Mode". [-]
+
+* Village Evolution: Settlements grow from Small to Large. [+]
+  Paths: "Peaceful" (trade) or "Military" (defense). [-]
+
+------------------------------------------------------------
+II. FACTION DYNAMICS & DIPLOMACY
+------------------------------------------------------------
+* Kill Tactics: Trorks target warriors (honor). [+]
+  The Void kills "the future" (children/elderly). [-]
+  Scaraks attack indiscriminately due to hunger. [+]
+
+* Diplomacy: Neutral start with Humans and Outlanders. [+]
+  Helping one damages reputation with the other. [-]
+
+* Strategic Messengers: Messengers ask for help. [+]
+  Choice: Defend village vs. Strike enemy base. [-]
+
+------------------------------------------------------------
+III. COMBAT & MAGIC SYSTEMS
+------------------------------------------------------------
+* Core Movement: Dodge roll (Q) avoids heavy attacks. [+]
