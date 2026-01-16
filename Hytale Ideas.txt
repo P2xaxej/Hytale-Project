@@ -5,7 +5,10 @@ HYTALE: LIVING WORLD & COMBAT REVOLUTION
 [CONCEPT OVERVIEW]
 These ideas aim to revolutionize the cubic sandbox genre by 
 introducing ecological consequences, tactical combat, and 
-[cite_start]meaningful faction diplomacy[cite: 1]. 
+[cite_start]meaningful faction diplomacy
+The same. I forgot to add that Gaia only destroys buildings that are factional. Example: after destroying the alien base, after a while, the gaia begins to destroy the base, taking its own. 
+I can even suggest how to implement it. The base from the camp to the citadel that is generated in the world will have the tag "time asset#number#fraction" And each NPC on the base is given the tag "time asset #number#fraction" When all NPCs with this tag die, the base with the same tag begins to count down by which it begins to break
+[cite: 1]. 
 
 MARKING SYSTEM:
 + [cite_start]Idea Accepted: The concept fits the project vision. [cite: 2]
@@ -78,4 +81,5 @@ IV. PROGRESSION & KNOWLEDGE
 ============================================================
 Portfolio Piece - Concept Work for Hytale/Mods [cite: 30]
 ============================================================
+
 
