@@ -1,9 +1,9 @@
 # Hytale-Project
 Project for Hytale.
 
-============================================================
+
 HYTALE: LIVING WORLD & COMBAT REVOLUTION
-============================================================
+
 
 [CONCEPT OVERVIEW]
 These ideas aim to revolutionize the cubic sandbox genre by 
