@@ -8,20 +8,14 @@ HYTALE: LIVING WORLD & COMBAT REVOLUTION
 [CONCEPT OVERVIEW]
 These ideas aim to revolutionize the cubic sandbox genre by 
 introducing ecological consequences, tactical combat, and 
-[cite_start]meaningful faction diplomacy
-
-[cite: 1]. 
-
-MARKING SYSTEM:
-+ Idea Accepted: The concept fits the project vision. [cite: 2]
-- Idea Not Accepted: The concept requires rework or removal. [cite: 2]
+meaningful faction diplomacy
 
 ------------------------------------------------------------
 I. WORLD & ECOSYSTEM
 ------------------------------------------------------------
 * "Time Asset" & Gaia's Cleansing(This part relates to the databases from the time asset#number#fraction tag.)
-  4–10 day timer where Nature (Gaia) reclaims the land. [cite_start]
-  Roots and moss consume structures to reduce server load. [cite_start]
+  4–10 day timer where Nature (Gaia) reclaims the land. 
+  Roots and moss consume structures to reduce server load. 
 The same. I forgot to add that Gaia only destroys buildings that are factional.
 Example: after destroying the alien base, after a while, the gaia begins to destroy the base, taking its own. 
 I can even suggest how to implement it. The base from the camp to the citadel that is generated in the world will have the tag
@@ -31,45 +25,45 @@ And each NPC on the base is given the tag
 When all NPCs with this tag die, the base with the same tag begins to count down by which it begins to break
 
 * Point of No Return (50%): If 50%+ of a base is reclaimed, 
-  enemies cannot return. [cite_start]
-  Below 50%, they can attempt to retake and restore it. [cite_start]
+  enemies cannot return.
+  Below 50%, they can attempt to retake and restore it.
 
 * Two-Level Repair & Workshop: Field repairs lower max 
-  durability (e.g., 100 to 90 and so on). [cite_start]
-  Full 100% restoration requires a Workshop and resources. [cite_start]
+  durability (e.g., 100 to 90 and so on). 
+  Full 100% restoration requires a Workshop and resources. 
 
 * Stress & Demographics: Peaceful races (Kweebecs/Ferans) 
-  react to danger. [cite_start]
-  High stress stops reproduction and triggers "Military Mode". [cite_start]
+  react to danger.
+  High stress stops reproduction and triggers "Military Mode". 
 
-* Village Evolution: Settlements grow from Small to Large. [cite_start]
-  Paths: "Peaceful" (trade) or "Military" (defense). [cite_start]
+* Village Evolution: Settlements grow from Small to Large. 
+  Paths: "Peaceful" (trade) or "Military" (defense). 
 
 ------------------------------------------------------------
 II. FACTION DYNAMICS & DIPLOMACY
 ------------------------------------------------------------
-* Kill Tactics: Trorks target warriors (honor). [cite_start]
-  The Void kills "the future" (children/elderly). [cite_start]
-  Scaraks attack indiscriminately due to hunger. [cite_start]
+* Kill Tactics: Trorks target warriors (honor). 
+  The Void kills "the future" (children/elderly).
+  Scaraks attack indiscriminately due to hunger.
 
-* Diplomacy: Neutral start with Humans and Outlanders. [cite_start]
-  Helping one damages reputation with the other. [cite_start]
+* Diplomacy: Neutral start with Humans and Outlanders. 
+  Helping one damages reputation with the other.
 
-* Strategic Messengers: Messengers ask for help. [cite_start]
-  Choice: Defend village vs. Strike enemy base. [cite_start]
+* Strategic Messengers: Messengers ask for help.
+  Choice: Defend village vs. Strike enemy base.
 
 ------------------------------------------------------------
 III. COMBAT & MAGIC SYSTEMS
 ------------------------------------------------------------
-* Core Movement: Dodge roll (Q) avoids heavy attacks. [cite_start]
-  "Perfect Block" stuns enemies (15s PvP cooldown). [cite_start]
+* Core Movement: Dodge roll (Q) avoids heavy attacks.
+  "Perfect Block" stuns enemies (15s PvP cooldown).
 
-* [cite_start]Weapon Specialization:
-  - Piercing: Breaks blocks; high penalty if countered. [cite_start]
-  - Mobility: Speed increases damage; lower stamina costs. [cite_start]
-  - From Block: Massive counter-power; strict timing. [cite_start]
-  - Crowd: Wide swings for group damage distribution. [cite_start]
-  - Strength: Slow, heavy swings with colossal damage. [cite_start]
+*   Weapon Specialization:
+  - Piercing: Breaks blocks; high penalty if countered. 
+  - Mobility: Speed increases damage; lower stamina costs. 
+  - From Block: Massive counter-power; strict timing. 
+  - Crowd: Wide swings for group damage distribution. 
+  - Strength: Slow, heavy swings with colossal damage. 
   Each stance has its own pose and charged attack.
   This mechanic can be improved through the Skill Tree (Paragraph IV).
   And you can also make it so that at the end of a separate branch of the stand there will be her special ult
@@ -81,23 +75,27 @@ III. COMBAT & MAGIC SYSTEMS
   Carbine
   Rifle
   and the musket itself
-  with upgrades would be suitable for gunpowder. It's important that the damage be strong but not one-shot. This will synergize with the skill tree, specifically the reload speed. And the most interesting thing is the ground cannon, which deals lethal damage, but it     must be assembled from three parts each time the player wants to deploy it, and each part takes 5 seconds to deploy (15 seconds total). A shot requires 20 gunpowder and a cannonball (regular or high-explosive).
+  with upgrades would be suitable for gunpowder. It's important that the damage be strong but not one-shot.
+   This will synergize with the skill tree, specifically the reload speed.
+   And the most interesting thing is the ground cannon, which deals lethal damage,
+   but it must be assembled from three parts each time the player wants to deploy it, and each part takes 5 seconds to deploy (15 seconds total).
+   A shot requires 20 gunpowder and a cannonball (regular or high-explosive).
 
-* [cite_start]Elemental Magic:
-  - Electricity: Water conductivity; stuns enemies. [cite_start]
-  - Air (Freedom): Terrain control and knockbacks. [cite_start]
-  - Fire: Pure high damage. [cite_start]
-  - Earth: Stuns and immobilization. [cite_start]
-  - Water: Foundation for elemental combos. [cite_start]
-  - Void: Necromancy and poisoning. [cite_start]
+*   Elemental Magic:
+  - Electricity: Water conductivity; stuns enemies.
+  - Air (Freedom): Terrain control and knockbacks. 
+  - Fire: Pure high damage.
+  - Earth: Stuns and immobilization.
+  - Water: Foundation for elemental combos.
+  - Void: Necromancy and poisoning.
 
 ------------------------------------------------------------
 IV. PROGRESSION & KNOWLEDGE
 ------------------------------------------------------------
-* Skill Trees: Leveling Crafting, Combat, and Movement. [cite_start][+]
-* Artifacts: Items that buff the chosen playstyle. [cite_start][-]
-* Endings: Finale depends on Gaia (Nature) vs. Varyn (Order). [cite_start][+]
-* In-game Wiki: Knowledge base unlocked via exploration. [cite_start][-]
+* Skill Trees: Leveling Crafting, Combat, and Movement.
+* Artifacts: Items that buff the chosen playstyle.
+* Endings: Finale depends on Gaia vs. Varyn .
+* In-game Wiki: Knowledge base unlocked via exploration.
 
 ------------------------------------------------------------
 V. COLLECTIVENESS OF FACTIONS
