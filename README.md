@@ -74,6 +74,14 @@ III. COMBAT & MAGIC SYSTEMS
   This mechanic can be improved through the Skill Tree (Paragraph IV).
   And you can also make it so that at the end of a separate branch of the stand there will be her special ult
   Artifacts can also have buffs for a particular stance or element of magic. as well as for passive skills (Roll, Block, Speed, Regeneration, Mana)
+ 
+  Ranged weapons currently have a very limited choice between a crossbow and a bow.
+  I think it would be great to add powerful gunpowder weapons since the game already has a musket. I think the arquebus
+  Pishchal
+  Carbine
+  Rifle
+  and the musket itself
+  with upgrades would be suitable for gunpowder. It's important that the damage be strong but not one-shot. This will synergize with the skill tree, specifically the reload speed. And the most interesting thing is the ground cannon, which deals lethal damage, but it     must be assembled from three parts each time the player wants to deploy it, and each part takes 5 seconds to deploy (15 seconds total). A shot requires 20 gunpowder and a cannonball (regular or high-explosive).
 
 * [cite_start]Elemental Magic:
   - Electricity: Water conductivity; stuns enemies. [cite_start]
