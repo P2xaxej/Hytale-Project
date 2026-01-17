@@ -10,8 +10,8 @@ introducing ecological consequences, tactical combat, and
 [cite: 1]. 
 
 MARKING SYSTEM:
-+ [cite_start]Idea Accepted: The concept fits the project vision. [cite: 2]
-- [cite_start]Idea Not Accepted: The concept requires rework or removal. [cite: 2]
++ Idea Accepted: The concept fits the project vision. [cite: 2]
+- Idea Not Accepted: The concept requires rework or removal. [cite: 2]
 
 ------------------------------------------------------------
 I. WORLD & ECOSYSTEM
@@ -25,64 +25,65 @@ I can even suggest how to implement it. The base from the camp to the citadel th
 
 * Point of No Return (50%): If 50%+ of a base is reclaimed, 
   enemies cannot return. [cite_start][+] [cite: 2, 4]
-  Below 50%, they can attempt to retake and restore it. [cite_start][-] [cite: 2, 5]
+  Below 50%, they can attempt to retake and restore it. [cite_start][-] [cite: 5]
 
 * Two-Level Repair & Workshop: Field repairs lower max 
-  durability (e.g., 100 to 90 and so on). [cite_start][+] [cite: 2, 6]
-  Full 100% restoration requires a Workshop and resources. [cite_start][-] [cite: 2, 7]
+  durability (e.g., 100 to 90 and so on). [cite_start][+] [cite: 6]
+  Full 100% restoration requires a Workshop and resources. [cite_start][-] [cite: 7]
 
 * Stress & Demographics: Peaceful races (Kweebecs/Ferans) 
   react to danger. [cite_start][+] [cite: 2, 8]
-  High stress stops reproduction and triggers "Military Mode". [cite_start][-] [cite: 2, 9]
+  High stress stops reproduction and triggers "Military Mode". [cite_start][-] [cite: 9]
 
-* Village Evolution: Settlements grow from Small to Large. [cite_start][+] [cite: 2, 10]
-  Paths: "Peaceful" (trade) or "Military" (defense). [cite_start][-] [cite: 2, 11]
+* Village Evolution: Settlements grow from Small to Large. [cite_start][+] [cite: 10]
+  Paths: "Peaceful" (trade) or "Military" (defense). [cite_start][-] [cite: 11]
 
 ------------------------------------------------------------
 II. FACTION DYNAMICS & DIPLOMACY
 ------------------------------------------------------------
-* Kill Tactics: Trorks target warriors (honor). [cite_start][+] [cite: 2, 12]
-  The Void kills "the future" (children/elderly). [cite_start][-] [cite: 2, 13]
-  Scaraks attack indiscriminately due to hunger. [cite_start][+] [cite: 2, 14]
+* Kill Tactics: Trorks target warriors (honor). [cite_start][+] [cite: 12]
+  The Void kills "the future" (children/elderly). [cite_start][-] [cite: 13]
+  Scaraks attack indiscriminately due to hunger. [cite_start][+] [cite: 14]
 
-* Diplomacy: Neutral start with Humans and Outlanders. [cite_start][+] [cite: 2, 14]
-  Helping one damages reputation with the other. [cite_start][-] [cite: 2, 15]
+* Diplomacy: Neutral start with Humans and Outlanders. [cite_start][+] [cite: 14]
+  Helping one damages reputation with the other. [cite_start][-] [cite: 15]
 
-* Strategic Messengers: Messengers ask for help. [cite_start][+] [cite: 2, 16]
-  Choice: Defend village vs. Strike enemy base. [cite_start][-] [cite: 2, 17]
+* Strategic Messengers: Messengers ask for help. [cite_start][+] [cite: 16]
+  Choice: Defend village vs. Strike enemy base. [cite_start][-] [cite: 17]
 
 ------------------------------------------------------------
 III. COMBAT & MAGIC SYSTEMS
 ------------------------------------------------------------
-* Core Movement: Dodge roll (Q) avoids heavy attacks. [cite_start][+] [cite: 2, 18]
-  "Perfect Block" stuns enemies (15s PvP cooldown). [cite_start][-] [cite: 2, 19]
+* Core Movement: Dodge roll (Q) avoids heavy attacks. [cite_start][+] [cite: 18]
+  "Perfect Block" stuns enemies (15s PvP cooldown). [cite_start][-] [cite: 19]
 
 * [cite_start]Weapon Specialization: [+] [cite: 2, 20]
-  - Piercing: Breaks blocks; high penalty if countered. [cite_start][-] [cite: 2, 20]
-  - Mobility: Speed increases damage; lower stamina costs. [cite_start][+] [cite: 2, 21]
-  - From Block: Massive counter-power; strict timing. [cite_start][-] [cite: 2, 22]
-  - Crowd: Wide swings for group damage distribution. [cite_start][+] [cite: 2, 23]
-  - Strength: Slow, heavy swings with colossal damage. [cite_start][-] [cite: 2, 23]
+  - Piercing: Breaks blocks; high penalty if countered. [cite_start][-] [cite: 20]
+  - Mobility: Speed increases damage; lower stamina costs. [cite_start][+] [cite: 21]
+  - From Block: Massive counter-power; strict timing. [cite_start][-] [cite: 22]
+  - Crowd: Wide swings for group damage distribution. [cite_start][+] [cite:  23]
+  - Strength: Slow, heavy swings with colossal damage. [cite_start][-] [cite: 23]
 
 * [cite_start]Elemental Magic: [+] [cite: 2, 24]
-  - Electricity: Water conductivity; stuns enemies. [cite_start][-] [cite: 2, 24]
-  - Air (Freedom): Terrain control and knockbacks. [cite_start][+] [cite: 2, 25]
-  - Fire: Pure high damage. [cite_start][-] [cite: 2, 25]
-  - Earth: Stuns and immobilization. [cite_start][+] [cite: 2, 26]
-  - Water: Foundation for elemental combos. [cite_start][-] [cite: 2, 26]
-  - Void: Necromancy and poisoning. [cite_start][+] [cite: 2, 27]
+  - Electricity: Water conductivity; stuns enemies. [cite_start][-] [cite: 24]
+  - Air (Freedom): Terrain control and knockbacks. [cite_start][+] [cite: 25]
+  - Fire: Pure high damage. [cite_start][-] [cite: 25]
+  - Earth: Stuns and immobilization. [cite_start][+] [cite: 26]
+  - Water: Foundation for elemental combos. [cite_start][-] [cite: 26]
+  - Void: Necromancy and poisoning. [cite_start][+] [cite: 27]
 
 ------------------------------------------------------------
 IV. PROGRESSION & KNOWLEDGE
 ------------------------------------------------------------
-* Skill Trees: Leveling Crafting, Combat, and Movement. [cite_start][+] [cite: 2, 27]
-* Artifacts: Items that buff the chosen playstyle. [cite_start][-] [cite: 2, 28]
-* Endings: Finale depends on Gaia (Nature) vs. Varyn (Order). [cite_start][+] [cite: 2, 28]
-* In-game Wiki: Knowledge base unlocked via exploration. [cite_start][-] [cite: 2, 29]
+* Skill Trees: Leveling Crafting, Combat, and Movement. [cite_start][+] [cite: 27]
+* Artifacts: Items that buff the chosen playstyle. [cite_start][-] [cite: 28]
+* Endings: Finale depends on Gaia (Nature) vs. Varyn (Order). [cite_start][+] [cite: 28]
+* In-game Wiki: Knowledge base unlocked via exploration. [cite_start][-] [cite:  29]
 
 ============================================================
 Portfolio Piece - Concept Work for Hytale/Mods [cite: 30]
 ============================================================
+
 
 
 
