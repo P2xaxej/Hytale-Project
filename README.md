@@ -94,7 +94,7 @@ IV. PROGRESSION & KNOWLEDGE
 ------------------------------------------------------------
 * Skill Trees: Leveling Crafting, Combat, and Movement.
 * Artifacts: Items that buff the chosen playstyle.
-* Endings: Finale depends on Gaia vs. Varyn .
+* Endings: Finale depends on Gaia vs Varyn .
 * In-game Wiki: Knowledge base unlocked via exploration.
 
 ------------------------------------------------------------
