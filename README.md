@@ -120,3 +120,11 @@ After an attack or battle, NPCs can treat wounds,
 bury the dead, or hold meetings (this could be added to normal times).
 NPC relationships could be enhanced with friendship (certain NPCs are more likely to be around each other or talk to each other)
 or gifts.
+
+------------------------------------------------------------
+VII. Cooking and Variety
+------------------------------------------------------------
+Cooking is currently very underdeveloped in Hytale.
+I propose introducing a mechanic where cooking goes beyond simply creating food,
+but rather adds food items that provide specific buffs.
+This would allow players to craft food to suit their playstyle.
